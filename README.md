@@ -78,9 +78,9 @@ How to set up locally.
 ### Prerequisites
 
 Things to install.
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install pyserial
   ```
 
 ### Installation
@@ -88,10 +88,6 @@ Things to install.
 1. Clone the repo
    ```sh
    git clone https://github.com/juseong-kim/stark.git
-   ```
-1. Install NPM packages
-   ```sh
-   npm install
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
