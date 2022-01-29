@@ -13,7 +13,7 @@
 <h3 align="center">STARK</h3>
 
   <p align="center">
-    Smart Tech Automation Remote via Kinematics (STARK) <br>Gesture control for IoT devices 
+    Smart Tech Automation Remote via Kinematics <br>Gesture control for IoT devices 
     <br />
     <br />
     <a href="https://github.com/juseong-kim/stark">View Demo</a>
