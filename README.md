@@ -107,10 +107,11 @@ See it in use. Screenshots, code examples and demos.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Serial communication with DWM1000
+- [x] Initialize bases and tag
+- [ ] Real-time plot of tag location
+    - [x] Two-dimensional (x-y plane)
+    - [ ] Three-dimensional (xyz)
 
 See the [open issues](https://github.com/juseong-kim/stark/issues) for a full list of proposed features (and known issues).
 
