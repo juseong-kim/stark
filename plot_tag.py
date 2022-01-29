@@ -61,9 +61,13 @@ def animate(i, t, xs, ys, zs):
     # ax2.scatter(t, steps)
 
     ax.plot(xs, ys, marker='o')
+    ax.scatter([0, 1.2, 1.2/2], [0, 0, 1.2/2], color='red', s=32)
     # ax2.plot(t, zs)
-    plt.ylim(-1, 3)
-    plt.xlim(-1, 3)
+    plt.ylim(-0.5, 1)
+    plt.xlim(-0.5, 1.5)
+    plt.xlabel('x')
+    plt.ylabel('y')
+    plt.grid()
     plt.title('Tag Location')
 
 
