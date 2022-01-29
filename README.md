@@ -100,6 +100,7 @@ Things to install.
 ## Usage
 
 See it in use. Screenshots, code examples and demos.
+![Location plotter demo 1](location_plotter_demo1.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
