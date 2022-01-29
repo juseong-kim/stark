@@ -13,7 +13,7 @@
 <h3 align="center">STARK</h3>
 
   <p align="center">
-    Gesture control for IoT devices 
+    Smart Tech Automation Remote via Kinematics <br>Gesture control for IoT devices 
     <br />
     <br />
     <a href="https://github.com/juseong-kim/stark">View Demo</a>
@@ -100,7 +100,6 @@ Things to install.
 ## Usage
 
 See it in use. Screenshots, code examples and demos.
-![Location plotter demo 1](location_plotter_demo1.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
