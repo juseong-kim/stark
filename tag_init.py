@@ -1,9 +1,10 @@
 import serial
 from serial.tools import list_ports
 import time
+import matplotlib.pyplot as plt
+
 ports = list_ports.comports()
 port = ports[-1][0]
-print(port)
 
 
 ser = serial.Serial(port, baudrate=115200, timeout=1)
