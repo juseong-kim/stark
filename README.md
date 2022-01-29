@@ -10,7 +10,7 @@
 <br />
 <div align="center">
 
-<img src="assets/circle.png" height="120px" style="margin-bottom:20px">
+<img src="assets/zui.gif" height="120px" style="margin-bottom:20px">
 <h3 align="center">STARK</h3>
 
   <p align="center">
