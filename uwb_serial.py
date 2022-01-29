@@ -23,6 +23,3 @@ while True:
     x = ser.readlines()
     if len(x) > 0:
         print(x)
-    # inp = input("enter: ")
-    # if len(inp)>0:
-    #     ser.write((inp+'\r\n').encode())
