@@ -10,10 +10,11 @@
 <br />
 <div align="center">
 
+<img src="./assets/zUI.gif" height="200px" style="margin-bottom:20px">
 <h3 align="center">STARK</h3>
 
   <p align="center">
-    Gesture control for IoT devices 
+    Smart Tech Automation Remote via Kinematics <br>Gesture control for IoT devices 
     <br />
     <br />
     <a href="https://github.com/juseong-kim/stark">View Demo</a>
@@ -100,16 +101,18 @@ Things to install.
 ## Usage
 
 See it in use. Screenshots, code examples and demos.
+![Location plotter demo 1](assets/location_plotter_demo1.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Serial communication with DWM1000
+- [x] Initialize bases and tag
+- [ ] Real-time plot of tag location
+    - [x] Two-dimensional (x-y plane)
+    - [ ] Three-dimensional (xyz)
 
 See the [open issues](https://github.com/juseong-kim/stark/issues) for a full list of proposed features (and known issues).
 
