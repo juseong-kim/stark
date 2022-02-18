@@ -29,10 +29,9 @@ def triangulate(dists, U, Vx, Vy):
     return (x, y, z)
 
 
-U = 1.2  # meters
-Vx = 1.2/2
-Vy = 1.2/2
-
+U = 11*0.1  # meters
+Vx = U/2
+Vy = 3*0.1
 
 def animate(i, t, xs, ys, zs):
     # Aquire and parse data from serial port
@@ -61,7 +60,7 @@ def animate(i, t, xs, ys, zs):
     # ax2.scatter(t, steps)
 
     ax.plot(xs, ys, marker='o')
-    ax.scatter([0, 1.2, 1.2/2], [0, 0, 1.2/2], color='red', s=32)
+    ax.scatter([0, Vx, U], [0, Vy, 0], color='red', s=32)
     # ax2.plot(t, zs)
     plt.ylim(-0.5, 1)
     plt.xlim(-0.5, 1.5)
